@@ -1,2 +1,4 @@
 Nama : Malik Zulfikar Gantina
 NPM  : 140810160036
+TTL  : Bandung, 11 November 1998
+JK   : Male
