@@ -1,2 +1,8 @@
 Nama : Malik Zulfikar Gantina
 NPM  : 140810160036
+
+Nama : Reynaldi
+NPM  : 140810160010
+
+Nama : Bariq
+NPM  : 140810160064
