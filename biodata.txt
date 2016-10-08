@@ -1,5 +1,12 @@
 Nama : Malik Zulfikar Gantina
+
 NPM  : 140810160036
 TTL  : Bandung, 11 November 1998
 JK   : Male
 Hobby: Touring
+
+Nama : Reynaldi
+NPM  : 140810160010
+
+Nama : Bariq
+NPM  : 140810160064
